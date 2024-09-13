@@ -1,0 +1,19 @@
+{
+  "name": "pruebaazure",
+  "version": "1.0.0",
+  "description": "Primer webapp para Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "azure"
+  ],
+  "author": "IvanParedesA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
